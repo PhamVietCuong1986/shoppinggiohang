@@ -1,0 +1,40 @@
+
+
+* {margin: 0;padding: 0;}
+input.soluongsp {
+    width: 121%;
+    padding: 0px 0px 0px 10px;
+    font-weight: 150;
+    color: gray;
+
+.btn-block {
+    font-size: initial;
+    /* font-weight: bold; */
+    text-transform: uppercase;
+    font-weight: 250;
+    padding: 5px 10px 5px 10px;
+}
+
+.doto {
+    color: red;
+    font-weight: 200;
+}
+
+.phai.float-right {
+    font-size: initial;
+    font-weight: 100;
+    text-align: right;
+}
+
+.phai.float-right {
+    text-align: right;
+}
+
+.gom {}
+
+
+.menutren{
+    min-height: 200px;
+    background:url(../images/menu.png) no-repeat center;
+    background-size: cover;
+}
